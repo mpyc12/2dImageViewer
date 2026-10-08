@@ -7,3 +7,4 @@ The purpose of this repository is to showcase my learning around the Vulkan API 
 * Uses stb image and GLFW
 * Has shader files included
 * Uses the Vulkan Template repository as base
+* Example image is of a Vulkan triangle
