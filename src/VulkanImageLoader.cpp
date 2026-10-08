@@ -996,7 +996,7 @@ int main() {
 	try {
 		Application app;
 		app.createWindow(800, 600, "2d Image Loader");
-		imageName = "image.png"; // set image file here
+		imageName = "example_image.png"; // set image file here
 		app.run();
 	} catch (const exception& e) {
 		cerr << e.what() << endl;
